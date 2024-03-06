@@ -3,7 +3,6 @@ import math
 
 # input
 Precio_costo = float(input ("Ingrese el valor del producto "))
-Precio_costo = float(input ("Ingrese el valor del producto: "))
 Ganancia = 0
 Precio_venta = Precio_costo+Ganancia
 
